@@ -1,0 +1,11 @@
+Name: Ofeh-Mamuzoh Elozino
+
+Matric Number: 23CG034107
+
+Machine Learning Algorithm Used: Logistic Regression
+
+Model persistence method used (e.g., Joblib or Pickle): Joblib (.pkl)
+
+Live URL of the hosted application: 
+
+GitHub repository link:
