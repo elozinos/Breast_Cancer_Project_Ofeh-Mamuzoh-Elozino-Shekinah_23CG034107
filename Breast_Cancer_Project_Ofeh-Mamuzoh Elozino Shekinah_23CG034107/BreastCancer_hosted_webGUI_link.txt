@@ -6,6 +6,7 @@ Machine Learning Algorithm Used: Logistic Regression
 
 Model persistence method used (e.g., Joblib or Pickle): Joblib (.pkl)
 
-Live URL of the hosted application: 
+Live URL of the hosted application: https://breast-cancer-project-ofeh-mamuzoh-dg8l.onrender.com
 
-GitHub repository link:
+
+GitHub repository link:https://github.com/elozinos/Breast_Cancer_Project_Ofeh-Mamuzoh-Elozino-Shekinah_23CG034107/tree/main
